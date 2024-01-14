@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### KamomeKUN's skills
 
-[![My Skills](https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,firebase,vscode,androidstudio,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,firebase,mysql,vscode,androidstudio,git,github)](https://skillicons.dev)
